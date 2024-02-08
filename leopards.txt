@@ -1,0 +1,8 @@
+team: Cheetas
+​
+manager: Nora
+​
+members:
+- Ryan
+- Anna
+- Justin
