@@ -1,4 +1,4 @@
-team: Cheetas
+team: Leopards
 ​
 manager: Nora
 ​
@@ -6,3 +6,4 @@ members:
 - Ryan
 - Anna
 - Justin
+- Olivia
