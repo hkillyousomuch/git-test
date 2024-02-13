@@ -1,6 +1,8 @@
 team: Lions
 ​
 manager: Mary
+
+coach : Grace
 ​
 members:
 - Thomas

@@ -1,7 +1,9 @@
 team: Leopards
 ​
-manager: Nora
-​
+manager: mainTigers
+
+coach : Oscar
+
 members:
 - Ryan
 - Anna
