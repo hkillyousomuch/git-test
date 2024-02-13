@@ -2,10 +2,11 @@ team: Lions
 ​
 manager: Mary
 
-coach : Grace
+coach : to-MergeSTGrace
 ​
 members:
 - Thomas
 - Karen
 - Margaret
 - Freddie
+- kim
